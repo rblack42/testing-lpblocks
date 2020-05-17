@@ -3,5 +3,5 @@ from testing.lpblocks import incrementer
 def test_answer():
     assert incrementer.inc(2) == 3
 
-def test-answer3():
-    assert incrementer(5) == 6
+def test_answer2():
+    assert incrementer.inc(5) == 6

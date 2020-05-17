@@ -12,4 +12,4 @@ reqs:
 
 .PHONY: test
 test:
-	py.test --cov-report term-missing --cov-report xml --cov sphinxcontrib --cov-config tox.ini {posargs:tests}
+	py.test --cov-report term-missing --cov-report xml --cov testing --cov-config tox.ini tests
