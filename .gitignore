@@ -23,3 +23,5 @@ cover
 dist
 *.egg-info/
 coverage.xml
+.coverage
+.pytest_cache

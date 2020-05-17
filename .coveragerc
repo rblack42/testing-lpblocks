@@ -1,0 +1,5 @@
+[run]
+omit =
+    tests/*
+    testing/lpblocks/__about__.py
+    testing/lpblocks/__version__.py
